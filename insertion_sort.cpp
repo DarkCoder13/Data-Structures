@@ -24,3 +24,6 @@ int main(){
     }
     return 0;
 }
+//worst case time complexity of bubble sort is O(n^2)
+//we can optimize it or improve time complexity
+//for best case time complexity time complexity is O(n)
