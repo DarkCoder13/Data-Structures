@@ -1,3 +1,4 @@
+//inbuilt method in c++ to sort an array
 #include<iostream>
 #include<algorithm>
 using namespace std;
