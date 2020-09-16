@@ -1,3 +1,4 @@
+//Given a 2-D Array.You have to transform the given array in spiral form.
 #include<iostream>
 using namespace std;
 void spiral(int a[1000][1000],int m,int n){
